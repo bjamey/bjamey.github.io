@@ -1,5 +1,5 @@
 - name: Visual Studio
-  percentage: 95
+  percentage: 85
   color: info
 
 - name: MySQL
@@ -9,3 +9,7 @@
 - name: Git
   percentage: 90
   color: success
+
+- name: office
+  percentage: 65
+  color: info

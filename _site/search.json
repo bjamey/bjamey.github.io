@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Well lets start off this crazy journey",
+      "category" : "",
+      "tags"     : "Personal, Random stuff",
+      "url"      : "/articles/The-firs-post",
+      "date"     : "2019-06-13 00:00:00 +1000"
+    } ,
+  
+    {
       "title"    : "Digital Minimalism",
       "category" : "",
       "tags"     : "Social Media, Minimalism, Technology",
@@ -84,7 +92,7 @@
       "title"    : "How to undo your git failure?",
       "category" : "",
       "tags"     : "External Post, Git",
-      "url"      : "https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74",
+      "url"      : "/articles/how-to-undo-your-git-failure",
       "date"     : "2015-09-25 00:00:00 +1000"
     } 
   

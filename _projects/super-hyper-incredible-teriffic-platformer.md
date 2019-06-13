@@ -1,0 +1,18 @@
+---
+name: Project A
+tools: [gdot]
+image: /assets/img/hello.jpg
+description: Super-hyper-incredible-teriffic Platformer
+---
+
+# Super-hyper-incredible-teriffic Platformer
+
+Super-hyper-incredible-teriffic Platformer is an awesome project!
+The result of many weeks of banging two rock together.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+![](/assets/img/hello.jpg)
+
+<p class="text-center">
+{% include button.html link="https://github.com/bjamey/randos" text="Learn More" %}
+</p>
