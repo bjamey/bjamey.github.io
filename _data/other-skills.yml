@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
+- name: Visual Studio
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: MySQL
+  percentage: 75
+  color: success
+
+- name: Git
   percentage: 90
   color: success
