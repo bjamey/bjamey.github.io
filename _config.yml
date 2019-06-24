@@ -34,7 +34,7 @@ author:
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+    permalink: /projects/:name:output_ext
 
 
 # Default values for collections
@@ -47,7 +47,7 @@ defaults:
 
 
 # Posts default Permalink
-permalink: articles/:title
+permalink: /articles/:title:output_ext
 
 
 # Exclude from processing.
