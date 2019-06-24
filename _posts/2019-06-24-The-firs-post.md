@@ -7,7 +7,4 @@ description: A short post about random stuff.
 ---
 
 # Why do this?
-Well i thought that it couldnt hurt.
-
-# something something getting a job?
-It might
+To see if I could, you know man conquering the world (or internet in this case).
