@@ -7,4 +7,6 @@ description: A short post about random stuff.
 ---
 
 # Why do this?
-To see if I could, you know man conquering the world (or internet in this case).
+Testing....testing...Can everyone hear me?? 
+
+Well here we go with this crazy journey.
