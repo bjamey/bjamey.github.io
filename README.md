@@ -1,33 +1,27 @@
-# Soon
+[![portfolYOU](https://github.com/YoussefRaafatNasry/portfolYOU/blob/master/docs/header.png?raw=true)](https://youssefraafatnasry.github.io/portfolYOU/)
 
-A super simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+<div align="center">
+    <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i><br><br>
+</div>
 
-## What's in it?
+[![screenshots](https://github.com/YoussefRaafatNasry/portfolYOU/blob/master/docs/portfolYOU.gif?raw=true)](https://youssefraafatnasry.github.io/portfolYOU/)
 
-A single static page with a full screen image. Remember those *under construction* sites? The point is to have a contact page for a few hours or a few days while you are building your amazing site.
+<div align="center">
+    <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
+</div>
 
-***
+## Installation
 
-## Start Soon
-It's easy. [Install Jekyll](https://jekyllrb.com/docs/installation/), clone this folder, ```cd soon``` then run ```bundle exec jekyll serve``` to check how it looks locally (localhost:4000). Self-host or use [GitHub pages](https://pages.github.com) to publish the site.
+Just check the [Documentation](https://youssefraafatnasry.github.io/portfolYOU/docs).
 
-You just need to change ```_config``` with your contact and site information and ```index.md``` to get the page up and running. Although it is just a starting point and you can change pretty much anything else. If you change the background image, don't forget to link the new image in ```_layouts/default.html```. The background image is located in ```images```.
+## Contributing
 
-***
-
-The sooner you start building your site the better. Since you wanted to install Jekyll anyway, *Soon* comes with all the usual starting folders to run a complete Jekyll site or blog. This means you can publish your *Soon* page and restyle, write and test your site in the background. Once you are happy with your layouts for posts, pages, collections and anything else in your site assets you can just overwrite everything and push your live site.
-
-Get [Soon](https://github.com/YJPL/soon/).
-
-***
-***
-
-# Sites using Soon or that have used Soon at some point
-
-- [alternatyves.com](https://alternatyves.com)
-
-<figure>
-<a href="https://alternatyves.com"><img src="https://raw.githubusercontent.com/YJPL/soon-screenshots/master/Soon_Screen-Shot-2019-02-18-at-14.44.01.png"/></a>
-</figure>
-
-Are you using Soon? [Let me know!](https://github.com/YJPL/soon/edit/master/README.md)
+1. [Fork](https://youssefraafatnasry.github.io/portfolYOU/fork) and clone the repository.
+1. Create a new branch based on `master`: `git checkout -b <my-branch-name>`
+1. Make your changes, and make sure the site still builds.
+1. Push to your fork and [submit a pull request](https://youssefraafatnasry.github.io/portfolYOU/compare) from your branch to `master`
+1. Pat yourself on the back and wait for your pull request to be reviewed.
+1. *Here are a few things you have to do:*
+   - Write a good commit message.
+   - Follow the style guide where possible.
+   - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.

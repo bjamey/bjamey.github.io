@@ -1,0 +1,99 @@
+[
+  
+    {
+      "title"    : "Default blog post",
+      "category" : "",
+      "tags"     : "tags, tags, tags",
+      "url"      : "/articles/default_blogpost.html",
+      "date"     : "2019-06-13 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "Well lets start off this crazy journey",
+      "category" : "",
+      "tags"     : "Personal, Random stuff",
+      "url"      : "/articles/The-firs-post.html",
+      "date"     : "2019-06-13 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "Digital Minimalism",
+      "category" : "",
+      "tags"     : "Social Media, Minimalism, Technology",
+      "url"      : "/articles/digital-minimalism.html",
+      "date"     : "2019-02-20 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "Learn React.js in 5 minutes",
+      "category" : "",
+      "tags"     : "React, JavaScript, Web Development",
+      "url"      : "/articles/learn-react-js.html",
+      "date"     : "2019-02-15 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "Clean Coding",
+      "category" : "",
+      "tags"     : "Software Development, Clean Code",
+      "url"      : "/articles/clean-coding.html",
+      "date"     : "2018-12-10 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "What the heck is a Callback?",
+      "category" : "",
+      "tags"     : "JavaScript, Nodejs, Web Development",
+      "url"      : "/articles/what-the-heck-is-a-callback.html",
+      "date"     : "2018-12-01 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "4 Lessons After 11 Years in Silicon Valley",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/articles/four-lessons-after-eleven-years-in-silicon-valley.html",
+      "date"     : "2018-05-09 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "GitHub Flow",
+      "category" : "",
+      "tags"     : "GitHub, Workflow",
+      "url"      : "/articles/github-flow.html",
+      "date"     : "2017-01-01 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "A better Hello World",
+      "category" : "",
+      "tags"     : "Software Development",
+      "url"      : "/articles/a-better-hello-world.html",
+      "date"     : "2016-07-23 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "Do not go gentle into that good night",
+      "category" : "",
+      "tags"     : "Poetry",
+      "url"      : "/articles/do-not-go-gentle-into-that-good-night.html",
+      "date"     : "2016-04-17 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "What is version control?",
+      "category" : "",
+      "tags"     : "Version Control",
+      "url"      : "/articles/what-is-version-control.html",
+      "date"     : "2016-02-09 00:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "How to undo your git failure?",
+      "category" : "",
+      "tags"     : "External Post, Git",
+      "url"      : "/articles/how-to-undo-your-git-failure.html",
+      "date"     : "2015-09-25 00:00:00 +1000"
+    } 
+  
+]
