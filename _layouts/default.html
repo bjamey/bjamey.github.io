@@ -1,25 +1,22 @@
 <!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<!--
-  portfolYOU Jekyll theme by Youssef Raafat
-  Free for personal and commercial use under the MIT license
-  https://github.com/YoussefRaafatNasry/portfolYOU
--->
+  {% include head.html %}
 
-<html lang="en" class="h-100">
+<body>
+  <main class="page-content" aria-label="Content">
+    <div id="bg" style="margin: 0;
+  padding: 0; background: url({{site.url}}/images/background.jpg) center fixed no-repeat;
+    -moz-background-size: cover;
+    background-size: cover; opacity:20%">
+  </div>
 
-{% include head.html %}
+<div id="container">
 
-<body class="d-flex flex-column h-100">
-
-  <main class="flex-shrink-0 container mt-5">
-  {% include navbar.html %}
   {{ content }}
-  </main>
-
   {% include footer.html %}
-  {% include scripts.html %}
+
+</div>
 
 </body>
-
 </html>
