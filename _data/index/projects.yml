@@ -18,15 +18,15 @@
 - name: Code lib
   i18n: codelib
   gh_user: bjamey
-  repo: libuseless
+  repo: codelib
   img: /static/assets/img/prj/code-lib.jpeg
   desc: My collection of code from 
 
-- name: random 1
-  i18n: rnd1
-  url: 
-  img: /static/assets/img/prj
-  desc: My collection of code
+# - name: random 1
+#   i18n: rnd1
+#   url: 
+#   img: /static/assets/img/prj
+#   desc: My collection of code
 
 # - name: random 2
 #   i18n: rnd2
