@@ -1,4 +1,4 @@
-# projects section data
+ # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: libary of uesless code
@@ -17,7 +17,8 @@
 
 - name: Code lib
   i18n: codelib
-  url: 
+  gh_user: bjamey
+  repo: libuseless
   img: /static/assets/img/prj/code-lib.jpeg
   desc: My collection of code from 
 
@@ -27,20 +28,20 @@
   img: /static/assets/img/prj
   desc: My collection of code
 
-- name: random 2
-  i18n: rnd2
-  url: 
-  img: /static/assets/img/prj/
-  desc: My collection of code
+# - name: random 2
+#   i18n: rnd2
+#   url: 
+#   img: /static/assets/img/prj/
+#   desc: My collection of code
 
-- name: repo 1
-  i18n: repo1
-  url: 
-  img: /static/assets/img/prj/
-  desc: My collection of code
+# - name: repo 1
+#   i18n: repo1
+#   url: 
+#   img: /static/assets/img/prj/
+#   desc: My collection of code
 
-- name: repo 2
-  i18n: repo2
-  url: 
-  img: /static/assets/img/prj/
-  desc: My collection of code 
+# - name: repo 2
+#   i18n: repo2
+#   url: 
+#   img: /static/assets/img/prj/
+#   desc: My collection of code 
