@@ -31,20 +31,20 @@ author:  # change following line to your infomation.
   desc: Info on myself will be comming once I have witten it. At the moment it is all a bit of a dogs breakfast.  # Describe yourself.
 
 # comment
-disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: 
+# disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+#   name: 
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id:
+# ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+#   id:
 
 ## google optimize
-go:
+# go:
   # id:
 
 ## growingIO
-gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+# gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
   # id:
 
 ## donation

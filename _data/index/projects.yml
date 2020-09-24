@@ -5,42 +5,42 @@
   i18n: useless
   gh_user: bjamey
   repo: libuseless
-  img:  /static/assets/img/landing/
-  desc: This project is my collection of random and some what useless code that i feel doesn't fit in with gists or in a code repo 
+  img:  /static/assets/img/prj/useless.jpeg
+  desc: This project is my collection of random and some what useless code that i feel doesn't fit in with the code repo 
 
 - name: handy docs and forms
   i18n: docs
   gh_user: bjamey
   repo: docs_and_forms
-  img: /static/assets/img/landing/
+  img: /static/assets/img/prj/handy.jpeg
   desc: Some docs and forms that i have found usefull in one way or another.
 
 - name: Code lib
   i18n: codelib
   url: 
-  img: /static/assets/img/landing/
-  desc: My collection of code 
+  img: /static/assets/img/prj/code-lib.jpeg
+  desc: My collection of code from 
 
 - name: random 1
   i18n: rnd1
   url: 
-  img: /static/assets/img/landing/
+  img: /static/assets/img/prj
   desc: My collection of code
 
 - name: random 2
   i18n: rnd2
   url: 
-  img: /static/assets/img/landing/
+  img: /static/assets/img/prj/
   desc: My collection of code
 
 - name: repo 1
   i18n: repo1
   url: 
-  img: /static/assets/img/landing/
+  img: /static/assets/img/prj/
   desc: My collection of code
 
 - name: repo 2
   i18n: repo2
   url: 
-  img: /static/assets/img/landing/
+  img: /static/assets/img/prj/
   desc: My collection of code 
