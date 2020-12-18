@@ -1,5 +1,5 @@
 * About
-  This is the README file for my personal website (obviously). In this file you can find things like, my rants on getting stuff to work, how long i think it will take to compleate and other stuff i think should be here.
+  This is the README file for my personal website (obviously). In this file you can find things like, my rants on getting stuff to work, how long i think it will take to complete and other stuff i think should be here.
 * Site info
 ** Stuff done
    * home page
